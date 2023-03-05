@@ -3,7 +3,7 @@
 
 const char* ssid = "OPPO Reno2 Z";
 const char* password = "np8ziu78";
-const char* serverUrl = "http://52.158.43.115:5000/api/v1/getState";
+const char* serverUrl = "http://52.xxx.xx.115:5000/api/v1/getState";
 const int relayPin = 23;
 
 HTTPClient http;
